@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Gospel family-order being a short discourse concerning the ordering of families, both of whites, blacks, and Indians / by G.F.</title>
+            <author>Fox, George, 1624-1691.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1676</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 36 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A40195</idno>
+            <idno type="STC">Wing F1829</idno>
+            <idno type="STC">ESTC R30371</idno>
+            <idno type="EEBO-CITATION">11304177</idno>
+            <idno type="OCLC">ocm 11304177</idno>
+            <idno type="VID">47372</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A40195)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47372)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1461:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Gospel family-order being a short discourse concerning the ordering of families, both of whites, blacks, and Indians / by G.F.</title>
+                  <author>Fox, George, 1624-1691.</author>
+               </titleStmt>
+               <extent>22 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1676.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication supplied by Wing.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Doctrines.</term>
+               <term>Christian life.</term>
+               <term>Family --  Religious life.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47372:1"/>
+            <pb facs="tcp:47372:1" rendition="simple:additions"/>
+            <p>GOSPEL Family-Order, BEING A SHORT DISCOURSE CONCERNING THE Ordering of Families, BOTH OF Whites, Blacks and Indians.</p>
+            <q>Pour out thy Fury upon the <hi>Heathen</hi> that know thee not, and up<g ref="char:EOLhyphen"/>on the Families that call not on thy Name; for they have eat<g ref="char:EOLhyphen"/>en up <hi>Jacob,</hi> and devoured him, and conſumed him, and have made his Habitation deſolate, <bibl>
+                  <hi>Jer. 10.25.</hi>
+               </bibl>
+            </q>
+            <q>Seeing that <hi>Abraham</hi> ſhall ſurely become a great and mighty Na<g ref="char:EOLhyphen"/>tion, and all the Nations of the Earth ſhall be bleſſed in him: For I know him, that he will command his Children, and his Houſhold after him, and they ſhall keep the Way of the Lord, to do Juſtice and Judgment, that the Lord may bring upon <hi>Abraham</hi> that which he hath ſpoken of him, <bibl>
+                  <hi>Gen. 18.18, 19.</hi>
+               </bibl>
+            </q>
+            <q>And if it ſeem Evil unto you to ſerve the Lord, chuſe you this day whom you will ſerve, whether the Gods which your Fathers ſer<g ref="char:EOLhyphen"/>ved, that were on the other Side of the Flood, or the Gods of the <hi>Amorites</hi> in whoſe Land ye dwell; but as for me and my Houſe, we will ſerve the Lord, <bibl>
+                  <hi>Joſhua 24.15.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>By</hi> G.F.</p>
+            <p>Printed in the Year 1676.</p>
+         </div>
+      </front>
+      <body>
+         <div type="discourse">
+            <pb facs="tcp:47372:2" rendition="simple:additions"/>
+            <pb n="3" facs="tcp:47372:2"/>
+            <head>GOSPEL Family-Order.</head>
+            <head type="sub">The following Diſcourſe is as it was taken from the Mouth of <hi>George Fox</hi> at a Mens Meeting at <hi>Tho. Rous</hi> his Houſe in <hi>Barbadoes</hi> in the Year <hi>1671.</hi> touching the <hi>Go<g ref="char:EOLhyphen"/>vernment</hi> of <hi>Families</hi> according to the <hi>Law</hi> of <hi>Jeſus.</hi>
+            </head>
+            <p>HEre all Friends may ſee how the holy Men of God by the Command of the Lord were to order their Families apart, and alſo by the ſame Law of God the People in the General were to be ordered, as you may ſee in <hi>Gen.</hi> 17. where God commanded <hi>Abraham</hi> to keep his Covenant between him and his Seed;
+<note place="margin">Gen. 17.</note> 
+               <hi>Every Man-child ſhall be circumciſed in your Generations, and he that is born in thy Houſe, or bought with Money of any Stran<g ref="char:EOLhyphen"/>ger, which is not of thy Seed, ſhall be circumciſed;</hi> and <hi>Abraham</hi> obeyed the Command of God in circumci<g ref="char:EOLhyphen"/>ſing all his Family, and all that were born in his Houſe and all that were bought with Money of Strangers. Now you who are called <hi>Chriſtians,</hi> muſt not all your Families be circumciſed with the Spirit, which the
+<pb n="4" facs="tcp:47372:3"/>outward Circumciſion of the Fleſh did type forth? yea, all Sons and Daughters, Maſters or Miſtreſſes of Families muſt be circumciſed <hi>with the Spirit, that puts off the Body of Death,</hi> the Sins of the Fleſh with the Circumciſion of the Spirit, <hi>that is not made with Hands;</hi> and alſo all that you have bought with Money, all Strangers, and all that are born in your Houſes (of Strangers) which are not of your own Seed, muſt you not bring all theſe to the Circumciſion of the Spirit? elſe how are you the Friends of God, as <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> was, who obeyed God; and therefore call upon all your Families, and your Servants whom you bought for Money, and thoſe that were born of them in your Families, <hi>and let them be Circumciſed,</hi> and en<g ref="char:EOLhyphen"/>deavour to bring them to that which doth circumciſe them, to wit, the Spirit, which is the Subſtance of the outward Circumciſion; and every one that was not circumciſed, was he not to be cut off from among the People. And ſo are not all now that are not cir<g ref="char:EOLhyphen"/>cumciſed by the Spirit to be cut off from the ſpiritual Union, the ſpiritual Fellowſhip? And therefore if you who are Maſters of Families, if you (I ſay) do not ſee the Circumciſion of all your Families, of Ser<g ref="char:EOLhyphen"/>vants and Strangers, and all ſuch as are bought with Money, will it not lye upon you, who ought to take Care for your Families, and order your Families, as <hi>Joſhua</hi> ſaid he would order his Family, <hi>And if it ſeem Evil unto you to ſerve the Lord, chooſe you this Day whom you will ſerve,</hi>
+               <note place="margin">Joſhua 24.15.</note> 
+               <hi>whether the Gods which your Fathers ſerved, that were on the other Side of the Flood, &amp;c. or the Gods of the</hi> Amorites, <hi>in whoſe Land ye dwell;</hi> BUT AS FOR ME AND MY
+<pb n="5" facs="tcp:47372:3"/>HOUSE, WE WILL SERVE THE LORD. And ſo were not all his Servants that he bought with Money, and Strangers, and ſuch as were born in his Houſe of his Family, were they not all to ſerve the Lord, according to the Law in the outward Circumciſion? And ſo are not all you Chriſtians now, and Maſters and Miſtreſſes of Families now to look to your Families, to ſee that you and your Fa<g ref="char:EOLhyphen"/>milies do ſerve the Lord in the Circumciſion of the Spirit of God? by which Spirit you muſt worſhip God in Spirit and in Truth, who is the Father of Spi<g ref="char:EOLhyphen"/>rits, and <hi>the God of the Spirits of all Fleſh:</hi> And there<g ref="char:EOLhyphen"/>fore mind and conſider this in your Families, and ga<g ref="char:EOLhyphen"/>ther them altogether, and teach them the Way of the Lord, and the New Covenant; yea, your Families and Children, and thoſe you bought with Moneys, and the Strangers, and ſuch as are born of them in your Houſe.</p>
+            <p>And in <hi>Exed</hi> 12. there you may ſee how the Lord ſaid, <hi>When a Stranger ſojourneth with thee,</hi>
+               <note place="margin">Exod. 12.</note> 
+               <hi>he ſhall keep the Paſſcover of the Lord, and let all his Males be circumciſed.</hi>
+            </p>
+            <p>You may think it was a ſtrange thing, that if a Man did but <hi>ſojourn</hi> in the Houſe of a <hi>Jew,</hi> that the Male ſhould be circumciſed; for a Sojourner is a <hi>Comer</hi> and <hi>Goer;</hi> but a Servant that is bought with Money, or one that is born of them in the Houſe, is more then a <hi>Sojourner;</hi> for no uncircumciſed was to eat of the Paſſeover. And ſo now no uncircumciſed Perſon is to eat of the Sacrifice or Paſſeover, <hi>Chriſt Jeſus,</hi> but ſuch only (I ſay) <hi>who are circumciſed by the Spirit,</hi> who ends the outward Paſſeover and the outward Circum<g ref="char:EOLhyphen"/>ciſion,
+<pb n="6" facs="tcp:47372:4"/>which were Types of Chriſt; and ſo one Law ſhould be to him that is born at home, and to the Stranger that ſojourneth with you: And as all were then to keep this Law of God, <hi>ſo all are to keep this Law of Jeſus Chriſt among Chriſtians now.</hi>
+            </p>
+            <p>And <hi>Leviticus</hi> 14. there it is ſaid, <hi>You ſhall have one Manner of Law,</hi>
+               <note place="margin">Lev. 14.</note> 
+               <hi>as well for the Stranger, as for one of you own Country; I am the Lord your God, ſaith the Lord.</hi>
+            </p>
+            <p>So this Law was then and ſtill is to be obſerved, which is, <hi>to love God above all, and to love their Neigh<g ref="char:EOLhyphen"/>bours as themſelves.</hi>
+            </p>
+            <p>And <hi>Deut.</hi> 5.
+<note place="margin">
+                  <hi>Deut.</hi> 5.</note> all were to keep the Law of God, &amp; all were to keep the outward Sabbath, both Sons Daughters, Men-ſervants &amp; Maid-ſervants; Oxen, Aſſes and other Cattle, and the Strangers that were within the Gates, theſe were all to keep the Reſt, the Sabbath, and the Law of God.</p>
+            <p>Now mark <hi>Chriſtians,</hi> who are come to Chriſt, and who believe in him, and <hi>have entered into your Reſt by the Law of Chriſt;</hi> ſee that all your Families do keep this <hi>Sabbath,</hi> this Reſt, both you and your Sons and Daughters, Men-ſervants and Maid-ſervants that are within your Gates; this concerns every one of you, that are Maſters of Families, to conſider ſeriouſly of it; for Chriſt is the <hi>Sabbath</hi> and <hi>Reſt, who gives Reſt to the whole Creation,</hi> he it is that takes off the Oppreſſi<g ref="char:EOLhyphen"/>on, who deſtroyeth the Devil's Works, who hath been the Oppreſſor both of Man and Beaſt; and ſo in Chriſt all have Reſt, and Peace, and Love, that doth not <hi>kill,</hi> nor <hi>commit Adultery,</hi> nor <hi>ſteal,</hi> nor <hi>co<g ref="char:EOLhyphen"/>vet</hi>
+               <pb n="7" facs="tcp:47372:4"/>any thing that another man hath, nor <hi>bear falſe Witneſs,</hi> nor <hi>make Images</hi> of any thing in Heaven above, or in the Earth beneath, and ſo Love fulfils the Law: And therefore ſee that this Law of Love be ſet up in all your Families, by which they may be ordered and ruled.</p>
+            <p>Here you may ſee how <hi>Moſes,</hi>
+               <note place="margin">
+                  <hi>Deut.</hi> 9.29.9. to 11.</note> a faithful Servant of the Lord, as the Lord had com<g ref="char:EOLhyphen"/>manded him, puts the <hi>Jews</hi> in mind of their Duty required of them by the Lord; <hi>Keep</hi> (ſaith he) <hi>therefore the Words of this Covenant, and do them, that you may proſper in all that ye do; ye ſtand this day all of you before the Lord your God, your Captains of your Tribes, your Elders and your Officers, with all the Men of</hi> Iſrael, <hi>your little Ones, your Wives, and thy Strangers that are within thy Camp, from the Hewer of Wood unto the Drawer of thy Water, that thou ſhouldeſt en<g ref="char:EOLhyphen"/>ter into Covenant with the Lord thy God, &amp;c.</hi>
+            </p>
+            <p>Now conſider this, hear how that all theſe were to ſtand before the Lord, to enter into Covenant with the Lord, even the Elders, the Officers, with the men of <hi>Iſrael,</hi> their Wives and little Children, the Strangers, with the Hewers of Wood and Drawers of Water; <hi>now Chriſt's is the new Covenant,</hi> and there<g ref="char:EOLhyphen"/>fore all you called <hi>Chriſtians,</hi> that profeſs him, who are Elders and Maſters of Families, are you not to ſee that your Wives, your Children and Strangers that are within your Camps, yea, to the Hewers of your Wood and Drawers of your Water, that they come all into the new Covenant, <hi>Chriſt Jeſus,</hi> which in God is eſtabliſhed forever, an everlaſting Covenant, who ends the firſt Covenant among the <hi>Jews;</hi> and
+<pb n="8" facs="tcp:47372:5"/>therefore ſhall not you outſtrip the <hi>Jews</hi> in their Fa<g ref="char:EOLhyphen"/>milies, in bringing all your Families, and Strangers, and Sojourners, Hewers of Wood and Drawers of Water into the New Covenant of Life, <hi>Chriſt Jeſus,</hi> through whom they may ſtand before God, and have Peace with him; mark this, ye Elders, and Rulers, and Fathers of Families, who have Strangers and So<g ref="char:EOLhyphen"/>journers in your Families, ſo as to ſee that you do per<g ref="char:EOLhyphen"/>form your Duty, and bring them to do their Duty in the Covenant of Life, <hi>Chriſt Jeſus.</hi>
+            </p>
+            <p>And now again in <hi>Deut.</hi> 31. <hi>When all</hi> Iſrael <hi>ſhall at<g ref="char:EOLhyphen"/>pear before the Lord thy God, in the Place which he ſhall chooſe;</hi>
+               <note place="margin">Deut. 31.</note> 
+               <hi>thouſhalt read the Law</hi> (ſaith he) <hi>before all</hi> Iſrael, <hi>in their hearing, and ſhall gather the People together, Men, Women and Children, and thy Strangers that are within thy Gates, that they may hear, and that they may learn, and fear the Lord thy God, and obſerve to do all the Words of the Law:</hi> Now mark and conſider this all you <hi>Chriſtians,</hi> that profeſs the New Covenant, <hi>Chriſt Jeſus,</hi> and the Law of Love, and the Law of Life, and the Law of Faith, and the Law of the Spirit, muſt you not gather all your Fa<g ref="char:EOLhyphen"/>milies together, <hi>Men, Women, Children and Stran<g ref="char:EOLhyphen"/>gers within your Gates, and ſuch as you bought with Money, and ſuch as are born of them in your Families,</hi> that they may all hear the New-covenant, and the Law of Life, and the Law of Love, and the Law of Faith, and the <hi>Law of the Spirit of Life, that makes free from the Law of Sin and Death,</hi> that they may all hear, that they may all learn this, and that they may all fear God, and obſerve and do the Law and the <hi>New-Covenant,</hi> as the <hi>Jews</hi> were to do the old, which is a Figure of
+<pb n="9" facs="tcp:47372:5"/>the new: And therefore be not you negligent, no<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſloathful, nor careleſs in this, but do your Duty, and ſee that all your Families may do their Duties; and ſo as it was among the <hi>Jews,</hi> the Children that had not known me [hear and learn] and the Strangers; for if you ſhould be negligent in this, then look what came upon the <hi>Jews,</hi> and how rude their Families grew, and how God's Judgments came upon them, and it came partly <hi>by the Heads</hi> of the Families, and <hi>Elders,</hi> and <hi>Overſeers:</hi> And therefore be diligent, and bring all your Families to ſerve God in the firſt Place, and be faithful to him, <hi>through Jeſus Chriſt,</hi> the New-covenant, then they will not be negligent in outward Things, if they be faithful to God, and then God's Bleſſing will be in your Families; and ſo therein men ſerve the Lord, in bringing their Fami<g ref="char:EOLhyphen"/>lies to ſerve the Lord, in that they do God's Will, and pleaſe him in the New-covenant, bringing them out of that which diſpleaſeth God, and ſo rule in Power and in Love.</p>
+            <p>And in <hi>Jeremiah</hi> 10.25. there you may ſee what the Lord ſaith by the Prophets,
+<note place="margin">Jer. 10.25.</note> 
+               <hi>Pour out thy Fury upon the</hi> Heathen <hi>that know thee not, and upon all the Families that call not upon thy Name.</hi>
+            </p>
+            <p>So now conſider this ſeriouſly, how God would have all Families to call upon his Name, and eſpeci<g ref="char:EOLhyphen"/>ally you that call your ſelves <hi>Chriſtians,</hi> and profeſs the New-covenant of God (to wit) <hi>Chriſt Jeſus;</hi> and therefore ſee that all your Families do call upon the Name of the Lord; it concerns you very much, if
+<pb n="10" facs="tcp:47372:6"/>you do not, <hi>ye may expect the Lord's Fury will be poured out upon you and yours.</hi>
+            </p>
+            <p>There you may ſee the Lord ſpeaking, how he will pour out his Spirit of Grace and Supplication, <hi>and they ſhall look upon him whom they have pierced</hi> (mean<g ref="char:EOLhyphen"/>ing <hi>Chriſt) and they ſhall mourn for him, as one mourns for his only Son, as one that is in Bitterneſs for his firſt born; the Land ſhall mourn, every Family apart ſhall mourn, and their Wives apart.</hi>
+            </p>
+            <p>And ſo conſider this all you that profeſs Chriſt, who have ſeen him whom you have pierced; if the Spirit of Grace and Supplication be poured out upon you, why then, you ſee him, Chriſt Jeſus, whom you have pierced, and then you will mourn bitterly, as you ſhould mourn for your firſt born.</p>
+            <p>So all Friends, they that witneſs the Spirit of Grace poured out upon them, they know the Mourning for him whom they have pierced; and then there is a Fountain opened by <hi>Chriſt Jeſus,</hi> for their Sins and for their Uncleanneſs, to waſh away the Filth.</p>
+            <p>And you may ſee in <hi>Zachariah</hi> 14.17. <hi>Whoſo<g ref="char:EOLhyphen"/>ever will not come up of all the Fa<g ref="char:EOLhyphen"/>milies of the Earth to</hi> Jeruſalem,
+<note place="margin">Zach. 14.17.</note> 
+               <hi>to worſhip the King, the Lord of Hoſts even upon them there ſhall be no Rain; yea, if the Family of</hi> Egypt <hi>go not up, he ſhall have no Rain, and they ſhall be plagued, &amp;c.</hi>
+            </p>
+            <p>And now conſider this, how all the Families of the Earth, that come to worſhip the Lord of Hoſts in Spi<g ref="char:EOLhyphen"/>rit and in Truth in this Heavenly <hi>Jeruſalem,</hi> and keep the Feaſt of Tabernacles, and eat of <hi>Chriſt,</hi> the Sacri<g ref="char:EOLhyphen"/>fice, who is the Bread of Life, that came down from
+<pb n="11" facs="tcp:47372:6"/>above; ſuch muſt be puniſhed, ſuch have no Rain in<g ref="char:EOLhyphen"/>deed, but are like to the parched Ground; and ſo mind every Family apart this; for <hi>Egypt</hi> was of <hi>Ham</hi>'s Stock, yet if they do not come up to worſhip God, they muſt be plagued.</p>
+            <p>And in <hi>Amos</hi> 3.2. you may ſee there how the Lord was againſt the whole Family of the <hi>Jews,</hi>
+               <note place="margin">
+                  <hi>Amos</hi> 3.2.</note> becauſe they had not kept his Law, and he puniſhed them. And ſo conſider ye <hi>Chriſtians,</hi> ye whole Families of <hi>Chriſtians,</hi> and ſee how you have kept the Law of the New-covenant, and the Law of Love, and the Law of Life, and the Law of the Spirit; if you have not, plainly you muſt be puniſhed, God will puniſh you with a Witneſs, e<g ref="char:EOLhyphen"/>ven the whole Family; if any Family, or Tribe, or Man, or Woman their Hearts ſhall turn away from God, and ſerve other Gods, ſee what a <hi>Curſe</hi> came upon them; and therefore what doth <hi>Chriſt</hi> ſay unto all the left Hand Goats, though they may profeſs him in Words, whoſe Hearts are turned away from his Law of Love, Law of Life, Law of Faith, and the New-covenant.</p>
+            <p>And therefore ſee that the Ark of the Lord be in e<g ref="char:EOLhyphen"/>very ones Houſe (to wit) your Hearts, in all your Families, and with the Law and Teſtimony of Jeſus in it, and then you will have the Bleſſing of the Lord with you, as <hi>Obed Edom</hi> had the Bleſſing of the Lord upon his Family and Houſe, while the outward Ark remained with him, the Figure of which <hi>Chriſtians</hi> muſt enjoy the Subſtance of, as you may ſee, 1 <hi>Cor.</hi> 13, 14. &amp; <hi>Gen.</hi> 39.5.</p>
+            <p>See how the Lord there bleſſed the <hi>Egyptian</hi>'s Houſe
+<pb n="12" facs="tcp:47372:7"/>for <hi>Joſeph</hi>'s ſake, and the Bleſſing of the Lord was up<g ref="char:EOLhyphen"/>on all that the <hi>Egyptian</hi> had, both in Houſe and Field; ſo you may hence ſee how a Servant, being a faithful Man to God, brought the Bleſſing of God upon the Houſe and Field of a <hi>Heathen,</hi> and now much more a faithful Maſter, or an Head, or an Elder of a Family, faithful to God, bringeth a Bleſſing on his own Fa<g ref="char:EOLhyphen"/>mily, and upon all within his Houſe, and out of his Houſe, and Field; for the Lord ſaid, <hi>If that they keep his Law and his Word, then they ſhall be bleſſed in the Field and in the Store houſe, and bleſſed in the Basket, and bleſ<g ref="char:EOLhyphen"/>ſed in his going forth and coming in</hi> (as <hi>Abraham was</hi>) who are of the <hi>Faith</hi> of <hi>Abraham</hi> now, of the <hi>bleſſed Seed,</hi> that brings the Bleſſing now to them, as it did to him; but they that crucifie the Seed to themſelves afreſh, and quench the Spirit of God in themſelves, and en<g ref="char:EOLhyphen"/>tertain the evil Seed and the evil Spirit, that brings the Curſe upon them in the Basket and in the Store<g ref="char:EOLhyphen"/>houſe, and in the Field, in his going Forth and co<g ref="char:EOLhyphen"/>ming in.</p>
+            <p>And you may read in the Scriptures how many Fa<g ref="char:EOLhyphen"/>milies, Nations and Kingdoms the Lord did cut off, becauſe they did not obey nor keep his Law, as <hi>Core</hi> and his Family, <hi>Achan</hi> and his, wicked <hi>Haman</hi> and his, and many others, for tranſgreſſing the Law of God. Yea, and he deſtroyed Nations for his own People, and gives his own People the Poſſeſſion of them, becauſe of the former Inhabitants Debauche<g ref="char:EOLhyphen"/>ry and Wickedneſs, and tells his own People, that if they do go into the ſame Debaucheries and Wicked<g ref="char:EOLhyphen"/>neſs, they muſt look for the ſame Deſtruction: And therefore <hi>Chriſtians</hi> all ſhould ſerve God in the new
+<pb n="13" facs="tcp:47372:7"/>Life, out of the Life of old <hi>Adam;</hi> for if they do pro<g ref="char:EOLhyphen"/>feſs Chriſt Jeſus, the Heavenly Man, and yet live in the Old <hi>Adam,</hi> and ſerve Sin and Evil, they muſt look for Deſtruction, both Families and Nations, who profeſs God in Words, but deny him in their Works, Lives and Converſations, according to that in <hi>Iſa.</hi> 31.2.9. the Lord ſaith concerning the Children of <hi>Iſrael,</hi> that tranſgreſs his Law,
+<note place="margin">Amos 9.7.</note> 
+               <hi>Are ye not</hi> (ſaith he) <hi>as Children of</hi> Ethyopia <hi>unto me, O ye Children of</hi> Iſrael, <hi>Amos</hi> 9.7.</p>
+            <p>Now conſider this, if the Children of <hi>Iſrael</hi> tranſ<g ref="char:EOLhyphen"/>greſs the Law of God, were they not accounted as <hi>E<g ref="char:EOLhyphen"/>thyopian Children:</hi> And ſo you <hi>Chriſtians</hi> now, who profeſs <hi>Chriſt</hi> in Words, and tranſgreſs his Law of Love, of Life, of Faith, and the New-covenant, <hi>are you not to the Lord as Children of the</hi> Ethyopians: what Difference is between you? It is not a Profeſſion and talking that makes the Difference, but the Poſſeſſion of <hi>Chriſt. Jer.</hi> 38. there you may ſee an <hi>Ethyopian,</hi> a Black-moor, how ſerviceable he was made unto <hi>Je<g ref="char:EOLhyphen"/>remiah</hi> (the Lord's Prophet) in the Day of his Suf<g ref="char:EOLhyphen"/>fering in the Dungeon, how he went to the King and told him that the Prophet was like to periſh there, and the King commanded him to go and take thirty Men, and draw him out of the Dungeon before he dye; ſo here this <hi>Black</hi> had more Sence <hi>then the great Profeſſors of</hi> Jeremiah<hi>'s Innocency;</hi> and he was in Fa<g ref="char:EOLhyphen"/>vour with the King, being one of his Eunuchs.</p>
+            <p>And ſo now conſider, do not ſlight them, to wit, the <hi>Ethyopians,</hi> the <hi>Blacks</hi> now, neither any Man or Woman upon the Face of the Earth in that <hi>Chriſt</hi> dy<g ref="char:EOLhyphen"/>ed for all, both <hi>Turks, Barbarians, Tartarians</hi> and <hi>E<g ref="char:EOLhyphen"/>thyopians;</hi>
+               <pb n="14" facs="tcp:47372:8"/>he dyed for the <hi>Tawnes</hi> and for the <hi>Blacks,</hi> as well as for you that are called <hi>Whites;</hi> therefore you may ſee in <hi>Acts</hi> 8.27. how the Lord commanded <hi>Philip</hi> to go toward the South, and he aroſe and went, <hi>and behold a Man of</hi> Ethyopia, <hi>a Eunuch of great Autho<g ref="char:EOLhyphen"/>rity under</hi> Candace <hi>Queen of</hi> Ethyopia, <hi>who had the Charge of all her Treaſure, how this Man came up to</hi> Je<g ref="char:EOLhyphen"/>ruſalem <hi>to worſhip the Lord, and how this</hi> Ethyopian, <hi>this Black, was converted to Chriſtianity by</hi> Philip, <hi>who preached Chriſt to him:</hi> And therefore now you ſhould preach Chriſt to your <hi>Ethyopians</hi> that are in your Fa<g ref="char:EOLhyphen"/>milies, that ſo they may be free Men indeed, and be tender of and to them, and walk in Love, that ye may anſwer that of God in their Hearts, being (as the Scripture affirms) all of one Blood &amp; of one Mold, to dwell upon the Face of the Earth; <hi>for Chriſt</hi> (I ſay) <hi>ſhed his Blood for them, as well as for you, and taſted Death for them, as well as for you, and hath enlightned them, as well as he hath enlightned you, and his Grace hath appear<g ref="char:EOLhyphen"/>ed unto them, as well as it hath appeared unto you, and he is a Propitiation for their Sins, as well as for yours; for he is the Propitiation for the Sins of the whole World:</hi> and ſo let every Maſter and Governour of a Family inform them, as well as others in his Family, that ſo they may come to walk in the Grace and in the Light of Je<g ref="char:EOLhyphen"/>ſus Chriſt, that ſo they may come to know Chriſt, the Saviour, from whence Grace and Light comes, and the Mediator (or Middle-man) between them and God; and ſo in this ſo doing, you will ſerve God, and not your ſelves: Alſo in <hi>Pſalm.</hi> 68.31. there you may ſee, <hi>Princes ſhould come out of</hi> Egypt, <hi>and</hi> E<g ref="char:EOLhyphen"/>thyopia <hi>ſhall ſtretch forth her Hand unto God; ſing unto
+<pb n="15" facs="tcp:47372:8"/>God, ye Kingdoms of the Earth; Oh praiſe the Lord:</hi> Now confider this ye <hi>Chriſtians,</hi> the Prophecy of <hi>David,</hi> in that you may ſee the fulfilling of it <hi>(viz.)</hi> that <hi>Ethy<g ref="char:EOLhyphen"/>opia</hi> ſhould ſoon ſtretch out her Hand unto God for you; ſee by the <hi>Eunuch,</hi> when he was converted, his Hand was ſoon ſtretched out to God; and doth the Lord ſay in another Place, Egypt <hi>my People.</hi>
+            </p>
+            <p>And therefore <hi>Chriſtians,</hi> you that have received it, do you preach the everlaſting Covenant, Chriſt Je<g ref="char:EOLhyphen"/>ſus, to the <hi>Ethyopians,</hi> the <hi>Blacks</hi> and <hi>Tawny-moors,</hi> as <hi>Philip</hi> did; I ſay, preach Chriſt Jeſus to them in your Families, that ſo each may come to know Chriſt and their Way to Salvation, as in <hi>Pſal.</hi> 87. the Lord ſpeaking of the Glory of his Church, ſaith, <hi>he will make mention of</hi> Rahab, <hi>and</hi> Babilon, <hi>and</hi> Ethiopia, <hi>that make men<g ref="char:EOLhyphen"/>tion of me, behold, &amp;c.</hi> So that you may ſee that there was a Church of God in <hi>Egypt,</hi> in <hi>Babylon</hi> and <hi>Ethiopia,</hi> who were Chriſtians, as well as among the <hi>wh<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te</hi> Peo<g ref="char:EOLhyphen"/>ple, ſo called by the <hi>Blacks.</hi>
+            </p>
+            <p>
+               <hi>And if thy Brother, an</hi> Hebrew <hi>Man</hi> or an <hi>Hebrew Woman be ſold unto thee, and ſerve thee ſix Years, then in the ſeventh Year, thou ſhalt let him go free from thee; and when thou ſendeſt him out free from thee thou ſhalt not let him go away empty, thou ſhalt fur<gap reason="illegible" resp="#MURP" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>h him liberally out of thy Flock, and out of thy Floor and o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t of thy Wine<g ref="char:EOLhyphen"/>preſs, of that wherewith the Lord thy God hath bleſſed thee, thou ſhalt give it him; and remember that thou waſt a Bond-man in the Land of</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gypt, <hi>and the Lord thy God redeemed thee; therefore I command thee this Thing to Day.</hi>
+            </p>
+            <p>See here this was to be done by the <hi>Jews</hi> to ſuch as were of their own Nation and People, and indeed this
+<pb n="16" facs="tcp:47372:9"/>will very well become <hi>Chriſtians, Maſters, Gover<g ref="char:EOLhyphen"/>nours</hi> and <hi>Rulers</hi> of Families here in this Iſland or elſe<g ref="char:EOLhyphen"/>where, who ſhould outſtrip the <hi>Jews</hi> to deal ſo (as the Lord commanded) <hi>with their Servants and Appren<g ref="char:EOLhyphen"/>tices, that are of their own Nation or People:</hi> And to cloſe up all, let me tell you, it will doubtleſs be ve<g ref="char:EOLhyphen"/>ry acceptable to the Lord, if ſo be that Maſters of Fa<g ref="char:EOLhyphen"/>milies here would deal ſo with their Servants, the <hi>Negroes</hi> and <hi>Blacks,</hi> whom they have bought with their Money, to let them go free after a conſiderable Term of Years, if they have ſerved them faithfully; and when they go, and are made free, <hi>let them not go away empty-handed,</hi> this I ſay will be very acceptable to the Lord, whoſe Servants we are, and who rewards us plentifully for our Service done him, not ſuffering us to go away empty; <hi>for who is there even among you,</hi> ſaith the Lord, <hi>that will ſhut the D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ors for nought, nei<g ref="char:EOLhyphen"/>ther do ye kindle Fire on my Altar for nought,</hi> Mal. 1.10. So now, you I ſay that are Chriſtians, that are re<g ref="char:EOLhyphen"/>deemed out of the ſpiritual <hi>Egypt;</hi> for as the Apoſtle ſaith, 1 <hi>Cor.</hi> 7.22. <hi>He that is called in the Lord, being a Servant, is the Lord's free Man, that is, ſet free from Sin and ſpiritual Bondage: Be ye holy, as your heavenly Father is holy; and be ye merciful, as your heavenly Fa<g ref="char:EOLhyphen"/>ther is merciful,</hi> as is commanded you in <hi>Luke</hi> 6.36. and this is the Way to have the loſt Image of God re<g ref="char:EOLhyphen"/>ſtored and renewed in us.</p>
+            <p>Therefore I ſay, you ſpiritual <hi>Jews,</hi> you muſt ex<g ref="char:EOLhyphen"/>ceed the outward <hi>Jews</hi> in this, who are now come to Chriſt, who is a merciful and faithful high Prieſt, <hi>who is the Saviour of all men, and who taſted Death for all men,</hi> Heb. 2.17. And let not your Families of <hi>Whites</hi>
+               <pb n="17" facs="tcp:47372:9"/>and <hi>Blacks</hi> be like <hi>Sedom</hi> and <hi>Gomorrah,</hi> like <hi>Zeboim</hi> and <hi>Zephervaim,</hi> and the reſt of the Cities of the Plain, or like the <hi>Canaanites,</hi> leſt ſudden Deſtruction come upon you, and the Lord root you out, as he did them. Let not, I ſay, your Servants under your Command, and ſuch as are born in your Houſes, and bred up in your Families, and ſuch as you have bought with Money, ſuffer them not (I ſay) to take Husbands and Wives at their Pleaſure, and then leave them again when they pleaſe, and then take others again as faſt and ſuddenly as they will, and again leave them; this is not well, this may bring the Judgments of God up<g ref="char:EOLhyphen"/>on you; yea, this manifeſts your Families to be <hi>un<g ref="char:EOLhyphen"/>clean</hi> and <hi>adulterous</hi> Families; <hi>For he that puts away his Wife, and takes another, he commits Adultery; and ſhe that marries, and he that marries her (after ſhe is put a<g ref="char:EOLhyphen"/>way) commits Adultery;</hi> this is the Law of God, and of Jeſus Chriſt, the Son of God, the great Reformer and Reſtorer of Pathes to dwell in, <hi>Mat.</hi> 19.9. <hi>Iſa.</hi> 58.12. that came to reform all Things.</p>
+            <p>And therefore let theſe Things be amended, as you expect the Bleſſing and Favour of God, or otherwiſe muſt expect his Judgments and Curſe upon you and your Families and your Plantations (who ſhould or<g ref="char:EOLhyphen"/>der theſe Things according to the Reformation and Mind of Jeſus and the Law) even Blaſtings, Mildews, Caterpillars, which is the Portion from God upon debauched Families and People; and therefore let the Law of <hi>Jeſus</hi> be ſet up in every Family.</p>
+            <p>And if any of your <hi>Negroes</hi> deſire to marry, let them take one another before Witneſſes, in the Preſence of
+<pb n="18" facs="tcp:47372:10"/>God, and the Maſters of the Families, in the Name of Jeſus, the Reſtorer of all Things to the Beginning, when God made them Male and Female, not one Man and many Women, but a Man and a Woman, and they were to continue and conſort together as long as they lived, and not to break the Covenant and Law of Marriage (nor defile the Marriage-Bed) as long as they lived; but if the Man were dead or Woman were dead, they were free, and at Liberty to marry in the Lord, and to be joyned by him, that ſo he might have the Glory and the Honour of it, and his People to be the Witneſſes of it, and ſo to record it in a Book, which was and is the Practice of the famous Fathers of Truth, and Saints, and Worthies, and Valiants of the Lord, who were Friends of God, and of his Law, and Righteouſneſs, and ſuch as denyed Debauchery, Whoredom, Fornication and Uncleanneſs.</p>
+            <p>And further, conſider with your ſelves, if you were in the ſame Condition as the Blacks are (and in<g ref="char:EOLhyphen"/>deed you do not know what Condition you or your Children, or your Childrens Children may be redu<g ref="char:EOLhyphen"/>ced and brought into, before you or they ſhall dye) who came as Strangers to you, and were ſold to you as Slaves; now I ſay, if this ſhould be the Con<g ref="char:EOLhyphen"/>dition of you or yours, you would think it hard Meaſure; yea, and very great Bondage and Cru<g ref="char:EOLhyphen"/>elty.</p>
+            <p>And therefore conſider ſeriouſly of this, and do you for and to them, as you would willingly have them or any other to do unto you, were you in the like ſlaviſh Condition, &amp; bring them to know the Lord
+<pb n="19" facs="tcp:47372:10"/>Chriſt, and the Light and Grace of Chriſt, by which they may come to know him that dyed for them, and that ſhed his precious Blood for them, and was buri<g ref="char:EOLhyphen"/>ed, and roſe again for their Juſtification.</p>
+            <p>And truly Friends, great Troubles I underwent a<g ref="char:EOLhyphen"/>bout thoſe Things; yea, ſorely was my Spirit troubled when I came into the Senſe of theſe Things, which were over my Life, and burden'd my Life very much, to ſee, that Families were not brought into Order; for the <hi>Blacks</hi> are of your <hi>Families,</hi> and the many Na<g ref="char:EOLhyphen"/>tives of them born in your Houſes: I had a ſore Bur<g ref="char:EOLhyphen"/>den, and (I ſay) much Trouble, how that Righte<g ref="char:EOLhyphen"/>ouſneſs might be brought through in the Thing, and Juſtice and Mercy ſet up in every Family and in eve<g ref="char:EOLhyphen"/>ry Heart, that ſo God might be honoured in every Family, who is the Creator of all, and hath given his Law to all, that is Juſt, Righteous, Holy and Good: And ſo I leave theſe Things to your ſerious conſideration, and to the Witneſs of the Spirit of God in you all, and in all your Hearts, and you to be obe<g ref="char:EOLhyphen"/>dient unto it, and ſee if it will not lead you into the ſelf-ſame Thing; for indeed when any ſhall marry into your Family, before the Maſter of the Family and Overſeer of the Family, then you may admoniſh them all of God and of Chriſt, and his Truth, Light and Grace in their Hearts, by which they might all know God and Chriſt, and know the true Marriage, which is honourable, in all Things to beat down the Evil and Vile; for Marriage is of God, and ſo honoured by him.</p>
+            <div type="part">
+               <pb n="20" facs="tcp:47372:11"/>
+               <head>And from <hi>Mary-land,</hi> the <hi>4th</hi> Day of the <hi>12th</hi> Moneth, <hi>1672.</hi> touching the Government of Families, in Part of his Letter he writes as followeth.</head>
+               <p>AND in all your Family-Meetings be not neg<g ref="char:EOLhyphen"/>ligent among your Whites and Negroes, but do your Diligence and Duty to God and them, which you will not neglect, if you keep in the Faith of <hi>A<g ref="char:EOLhyphen"/>braham,</hi> and of that bleſſed Seed which inheriteth the Promiſe and Crown Immortal; and be at Peace a<g ref="char:EOLhyphen"/>mong your ſelves, that every one may ſhew that you are in Chriſt, the Prince of Peace, and it doth ſhew that you are the Diſciples of Chriſt, and Learners and Followers of him, ſo to poſſeſs him, and then Life Eternal, <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>And from <hi>London,</hi> the <hi>14th</hi> day of the <hi>7th</hi> Moneth, <hi>1673.</hi> he wrote as followeth.</head>
+               <p>MY Dear Friends, all live in the Power and Spirit of God, in which you have Peace and Life; now in the Spirit you have Unity and Fellow<g ref="char:EOLhyphen"/>ſhip, and this Spirit is the Bond of Peace, in which you do keep the holy, juſt, righteous and good Peace; and now ſee that you do keep the Peace in God's Houſe, who are his Servants and Children in the Spi<g ref="char:EOLhyphen"/>rit;
+<pb n="21" facs="tcp:47372:11"/>for in it you have Unity, and in it you have a heavenly Fellowſhip, in the Fellowſhip of the Spirit, the Bond of Peace, by which Spirit you may anſwer that which may be known of God in all, both Blacks and Whites, and that they may make Confeſſion with that of God in them, which they do tranſgreſs, that God is in you of a Truth: And however, keep in Love one with another, for that doth edifie one ano<g ref="char:EOLhyphen"/>ther, and the whole Body, which Chriſt, the belo<g ref="char:EOLhyphen"/>ved Son of God, that came out of his Boſome, is the Head and Prophet, Shepherd and Biſhop, to open and feed and to overſee. Dear Friends, keep your Meetings, and your Mens and Womens, and your Fortnights Meetings among your Blacks, and train them up in the Fear of the Lord, and ſpread the Truth abroad, and inſtruct your Families, as <hi>Abraham</hi> did, that they may know the New Covenant, &amp; the Lord to write his <hi>Law</hi> in their Hearts, and put it in their Minds: So no more, but my <hi>Love</hi> to all, as though I named them.</p>
+            </div>
+            <div type="part">
+               <head>And from <hi>London,</hi> the <hi>18th</hi> of the <hi>12th</hi> Moneth, <hi>1673.</hi>
+               </head>
+               <p>ALL my dear Friends, keep in the Power of God and in his <hi>Life,</hi> which giveth you an In<g ref="char:EOLhyphen"/>hertance of that which hath no End; and keep your Men and Womens Meetings in the Power of God, and ke<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>p the Goſpel-Order in the Power of God, and the Government of Chriſt, which bruiſeth the Ser<g ref="char:EOLhyphen"/>pent's
+<pb n="22" facs="tcp:47372:12"/>Head, who is the Head of all Diſorder and evil Government, and keep your Meetings Weekly and Fortnightly, as they were eſtabliſhed, inſtructing your Families, as <hi>Abraham</hi> did, whether they were hired, or born in his Family, or bought with his Mo<g ref="char:EOLhyphen"/>ney; and who are of Faith, are of <hi>Abraham:</hi> And let me ſee and hear that you are of the Faith of <hi>Abraham,</hi> that you do inſtruct them in <hi>Chriſtianity,</hi> and in the <hi>Law of Jeſus,</hi> and in the <hi>Circumciſion of the Spirit,</hi> as <hi>Abraham</hi> did outwardly. Send me over a <hi>Black Bay</hi> of your inſtructing, that I may ſee ſome of your Fruits, and as I ſhall ſee, I ſhall make him a free Man, or ſend him to you again.</p>
+            </div>
+            <div type="part">
+               <head>And at the laſt Quarterly Meeting at <hi>Thomas Rous</hi>'s this Paper was read, as followeth.</head>
+               <p>FRiends, all that have <hi>Negroes</hi> to your Servants, let them have two or three Hours of the Day once in the Week, that Day Friends Meeting is on, or an other Day, to meet together, to wait upon the <hi>Lord;</hi> for this would be a good Savour among all the reſt; for therein you deny your ſelves, for the bring<g ref="char:EOLhyphen"/>ing them to the Knowledge of the <hi>Lord God;</hi> and this would be a good Pattern to all the Iſland, and an Ex<g ref="char:EOLhyphen"/>ample to all other Maſters, to bring their Servants from under Oppreſſion to know the <hi>Lord.</hi>
+               </p>
+               <closer>
+                  <signed>G. Fox</signed>
+               </closer>
+            </div>
+            <trailer>THE END</trailer>
+            <pb facs="tcp:47372:12"/>
+         </div>
+      </body>
+   </text>
+</TEI>
